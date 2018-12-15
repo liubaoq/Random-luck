@@ -19,4 +19,4 @@ git追踪的是修改
 /dev
 Creating a new branch is quick.
 解决冲突：
-冲突吧！
+1.来个冲突
