@@ -20,3 +20,5 @@ git追踪的是修改
 Creating a new branch is quick.
 解决冲突：
 1.来个冲突
+
+分支管理策略
