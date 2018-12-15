@@ -18,3 +18,5 @@ git追踪的是修改
 再试一次
 /dev
 Creating a new branch is quick.
+解决冲突：
+冲突吧！
