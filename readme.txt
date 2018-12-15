@@ -2,8 +2,8 @@ LastPass 账号：snail_lbq 密码：1qaz2wsx#EDC
 GitHub 账号：liubaoq  密码：liu_bq12150424
 
 
-$ git config --global user.name "Your Name"
-$ git config --global user.email "email@example.com"
+config --global user.name "Your Name"
+config --global user.email "email@example.com"
 Git is a version control system.
 Git is free software.
 试试中文怎么样
@@ -16,3 +16,5 @@ git追踪的是修改
 再来
 再来
 再试一次
+/dev
+Creating a new branch is quick.
