@@ -1,3 +1,7 @@
+LastPass 账号：snail_lbq 密码：1qaz2wsx#EDC
+GitHub 账号：liubaoq  密码：liu_bq12150424
+
+
 $ git config --global user.name "Your Name"
 $ git config --global user.email "email@example.com"
 Git is a version control system.
@@ -7,3 +11,4 @@ Git is free software.
 git追踪的是修改
 修改1
 修改2
+还需要输入密码吗?
