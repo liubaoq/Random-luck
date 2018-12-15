@@ -22,3 +22,5 @@ Creating a new branch is quick.
 1.来个冲突
 
 分支管理策略
+
+bug分支
