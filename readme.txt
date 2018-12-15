@@ -6,3 +6,4 @@ Git is free software.
 试下暂存区怎么呀
 git追踪的是修改
 修改1
+修改2
