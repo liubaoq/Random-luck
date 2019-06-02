@@ -1,7 +1,3 @@
-LastPass 账号：snail_lbq 密码：1qaz2wsx#EDC
-GitHub 账号：liubaoq  密码：liu_bq12150424
-
-
 config --global user.name "Your Name"
 config --global user.email "email@example.com"
 Git is a version control system.
